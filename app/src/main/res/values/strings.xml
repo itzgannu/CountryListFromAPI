@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountryAPIFetchRecyclerViewWithLocation</string>
+    <string name="list_of_countries">List of Countries</string>
+    <string name="favorite_list">Favorite List</string>
+    <string name="current_country">Current Country</string>
+    <string name="sample">Sample</string>
+    <string name="not">NOT</string>
+    <string name="fav">FAV</string>
+    <string name="favorites">Favorites</string>
+    <string name="current_location_details">Current Location Details</string>
+</resources>

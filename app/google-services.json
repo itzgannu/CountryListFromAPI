@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400615116312",
+    "project_id": "countrylistapi-24843",
+    "storage_bucket": "countrylistapi-24843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400615116312:android:929f8f5dc27b739e8afd6d",
+        "android_client_info": {
+          "package_name": "com.example.countryapifetchrecyclerviewwithlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400615116312-69b4do0svj0barbj9rg6kbqsbrducd36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc1lzaaKwzla5NNbMfc3_uoHR6ySHM13Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400615116312-69b4do0svj0barbj9rg6kbqsbrducd36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
